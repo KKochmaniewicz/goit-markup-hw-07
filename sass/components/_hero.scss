@@ -1,7 +1,7 @@
 .hero{
     background-color: $bgcolor-dark;
     text-align: center;
-    background-image: url(../../images/hero.jpg),
+    background-image: url(../sass/images/hero.jpg),
       linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4));
     background-repeat: no-repeat;
     background-position: 50% 50%; 
