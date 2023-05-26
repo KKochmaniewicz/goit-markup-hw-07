@@ -33,6 +33,16 @@
 
     }
 
+    &__label-title{
+        font-family: $font-roboto;
+        font-size: 12px;
+        line-height: 1.67;
+        letter-spacing: 0.01em;
+        color: $text-light;
+        margin-bottom: 4px;
+
+    }
+
     &__user{
         display: flex;
         position: relative;
@@ -45,7 +55,7 @@
         height: 40px;
         border: 1px solid rgba(33, 33, 33, 0.2);
         border-radius: 4px;
-        margin-top: 4px;
+        // margin-top: 4px;
         padding-left: 42px;
         margin-bottom: 10px;
         transition-duration: 2s;
